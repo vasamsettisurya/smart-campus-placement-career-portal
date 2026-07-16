@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f4f6fb;
+    color: #222;
+}
+
+/* Header */
+header {
+    background: #24577f;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+header h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 16px;
+}
+
+/* Navigation */
+nav {
+    text-align: center;
+    padding: 30px 10px;
+}
+
+nav a {
+    display: inline-block;
+    padding: 12px 22px;
+    margin: 8px;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    background: #24577f;
+}
+
+nav a:hover {
+    opacity: 0.8;
+}
+
+/* Main containers */
+.container {
+    width: 85%;
+    max-width: 1100px;
+    margin: 30px auto;
+    background: white;
+    padding: 35px;
+    border-radius: 12px;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.2);
+}
+
+/* Headings */
+h1, h2 {
+    color: #24577f;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+/* Forms */
+form {
+    max-width: 700px;
+    margin: auto;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 14px;
+    margin-top: 8px;
+    border: 1px solid #999;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+textarea {
+    height: 140px;
+}
+
+/* Buttons */
+button {
+    background: #24577f;
+    color: white;
+    border: none;
+    padding: 14px 28px;
+    margin-top: 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #17405f;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background: #24577f;
+    color: white;
+    padding: 15px;
+}
+
+td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #aaa;
+}
+
+/* Lists */
+ul {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 20px;
+    }
+
+    nav a {
+        display: block;
+        margin: 8px auto;
+        width: 80%;
+    }
+
+    header h1 {
+        font-size: 24px;
+    }
+}
