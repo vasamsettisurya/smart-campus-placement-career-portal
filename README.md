@@ -1,10 +1,10 @@
-#🎓Smart Campus Placement Portal
+# 🎓Smart Campus Placement Portal
 
 A cloud-based web application designed to simplify and digitalize the campus placement process by connecting students, administrators, and companies on a single platform.
 
 ---
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Smart Campus Placement Portal is a web-based application developed to manage and streamline campus placement activities.
 
@@ -20,7 +20,7 @@ The application is deployed on Amazon Web Services (AWS) using cloud infrastruct
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - To digitize the campus placement process.
 - To provide a centralized placement management platform.
@@ -31,9 +31,9 @@ The application is deployed on Amazon Web Services (AWS) using cloud infrastruct
 
 ---
 
-✨ Key Features
+## ✨ Key Features
 
-👨‍🎓 Student Module
+### 👨‍🎓 Student Module
 
 - Student Registration
 - Student Login
