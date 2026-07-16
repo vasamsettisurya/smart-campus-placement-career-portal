@@ -162,6 +162,7 @@ Smart-Campus-Placement-Portal/
 ├── requirements.txt
 │
 └── README.md
+
 ---
 
 ## ☁️ AWS Deployment
@@ -306,3 +307,13 @@ This project was developed as an academic project to explore web development, ba
 ## 📄 License
 
 This project is developed for educational and academic purposes.
+
+---
+
+## 🎯 Conclusion
+
+The Smart Campus Placement Portal provides a centralized platform for managing campus placement activities. By combining web technologies with cloud computing services, the project demonstrates how placement-related information can be organized and accessed efficiently.
+
+The project helped us gain practical knowledge in frontend development, Python Flask backend development, database concepts, and AWS cloud deployment.
+
+---
