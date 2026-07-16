@@ -281,6 +281,13 @@ Sensitive information such as passwords, access keys, and private credentials sh
 
 ---
 
+## 📄 Project Documentation
+
+For detailed information about the project, architecture, implementation, AWS services, and results, please refer to the complete project documentation.
+
+📥 [View Project Documentation](docs/Project-Documentation.pdf)
+
+---
 ## 📚 Learning Outcomes
 
 ### Through this project, we gained knowledge in:
