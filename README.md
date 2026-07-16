@@ -1,4 +1,4 @@
-🎓 ###Smart Campus Placement Portal###
+#🎓 Smart Campus Placement Portal
 
 A cloud-based web application designed to simplify and digitalize the campus placement process by connecting students, administrators, and companies on a single platform.
 
