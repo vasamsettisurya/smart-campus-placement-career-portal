@@ -132,11 +132,9 @@ The application is deployed on Amazon Web Services (AWS) using cloud infrastruct
 
 ## 📁 Project Structure
 
-Smart-Campus-Placement-Portal/
+smart-campus-placement-career-portal/
 │
-├── app.py
-│
-├── templates/
+├── 📁 templates/
 │   ├── index.html
 │   ├── login.html
 │   ├── register.html
@@ -146,10 +144,10 @@ Smart-Campus-Placement-Portal/
 │   ├── placement.html
 │   └── contact.html
 │
-├── static/
+├── 📁 static/
 │   └── style.css
 │
-├── images/
+├── 📁 images/
 │   ├── home-page.png
 │   ├── login-page.png
 │   ├── register-page.png
@@ -159,8 +157,11 @@ Smart-Campus-Placement-Portal/
 │   ├── placement-page.png
 │   └── contact-page.png
 │
-├── requirements.txt
+├── 📁 docs/
+│   └── SMART CAMPUS PLACEMENT.pdf
 │
+├── app.py
+├── requirements.txt
 └── README.md
 
 ---
