@@ -41,33 +41,33 @@ The application is deployed on Amazon Web Services (AWS) using cloud infrastruct
 - Placement Information
 - Access to company details
 
-🏢 Company Module
+### 🏢 Company Module
 
 - Company Information
 - Placement-related details
 - Access to student placement information
 
-👨‍💼 Admin Module
+### 👨‍💼 Admin Module
 
 - Manage placement activities
 - Manage student information
 - Manage company information
 - Manage placement-related details
 
-📄 Resume Module
+### 📄 Resume Module
 
 - Resume-related information
 - Student profile details
 - Resume management
 
-📞 Contact Module
+### 📞 Contact Module
 
 - Contact information
 - Communication support
 
 ---
 
-🏗️ System Architecture
+## 🏗️ System Architecture
 
                 👨‍🎓 Students
                      │
@@ -91,28 +91,28 @@ The application is deployed on Amazon Web Services (AWS) using cloud infrastruct
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Frontend
+### Frontend
 
 - HTML5
 - CSS3
 
-Backend
+### Backend
 
 - Python
 - Flask
 
-Database
+### Database
 
 - MySQL
 - Amazon RDS
 
-Cloud Platform
+### Cloud Platform
 
 - Amazon Web Services (AWS)
 
-AWS Services Used
+### AWS Services Used
 
 - Amazon EC2
 - Amazon RDS
@@ -122,7 +122,7 @@ AWS Services Used
 - Amazon S3
 - Amazon CloudWatch
 
-Development Tools
+### Development Tools
 
 - Visual Studio Code
 - Git
@@ -130,7 +130,7 @@ Development Tools
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 Smart-Campus-Placement-Portal/
 │
@@ -149,13 +149,22 @@ Smart-Campus-Placement-Portal/
 ├── static/
 │   └── style.css
 │
+├── images/
+│   ├── home-page.png
+│   ├── login-page.png
+│   ├── register-page.png
+│   ├── admin-page.png
+│   ├── company-page.png
+│   ├── resume-page.png
+│   ├── placement-page.png
+│   └── contact-page.png
+│
 ├── requirements.txt
 │
 └── README.md
-
 ---
 
-☁️ AWS Deployment
+## ☁️ AWS Deployment
 
 The application is deployed on an Amazon EC2 instance.
 
@@ -179,17 +188,17 @@ The application can be accessed through the EC2 public IP address after deployme
 
 ---
 
-🗄️ Database
+## 🗄️ Database
 
 The project uses MySQL as the database.
 
-The database is hosted on:
+### The database is hosted on:
 
 Amazon RDS
 
 Amazon RDS provides a managed database environment for storing application data securely and reliably.
 
-The database can be used to store:
+### The database can be used to store:
 
 - Student details
 - User login information
@@ -199,9 +208,9 @@ The database can be used to store:
 
 ---
 
-🔐 Security
+## 🔐 Security
 
-The project uses AWS security features such as:
+### The project uses AWS security features such as:
 
 - IAM users and permissions
 - Security Groups
@@ -212,9 +221,9 @@ Sensitive information such as passwords, access keys, and private credentials sh
 
 ---
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
-The project can be enhanced in the future with:
+### The project can be enhanced in the future with:
 
 - Secure user authentication
 - Student dashboard
@@ -231,29 +240,49 @@ The project can be enhanced in the future with:
 
 ---
 
-📸 Project Screenshots
-
-Add project screenshots here:
-
-screenshots/
-│
-├── home.png
-├── login.png
-├── register.png
-├── admin.png
-└── placement.png
-
-Example:
-
-"Home Page" (screenshots/home.png)
-
-"Login Page" (screenshots/login.png)
+## 📸 Project Screenshots
 
 ---
 
-📚 Learning Outcomes
+## 📸 Project Screenshots
 
-Through this project, we gained knowledge in:
+### 🏠 Home Page
+
+![Home Page](images/home.png)
+
+### 🔐 Login Page
+
+![Login Page](images/login.png)
+
+### 📝 Student Registration Page
+
+![Student Registration](images/register.png)
+
+### 👨‍💼 Admin Dashboard
+
+![Admin Dashboard](images/admin.png)
+
+### 🏢 Company Page
+
+![Company Page](images/company.png)
+
+### 📄 Resume Page
+
+![Resume Page](images/resume.png)
+
+### 📊 Placement Page
+
+![Placement Page](images/placement.png)
+
+### 📞 Contact Page
+
+![Contact Page](images/contact.png)
+
+---
+
+## 📚 Learning Outcomes
+
+### Through this project, we gained knowledge in:
 
 - Web application development
 - HTML and CSS
@@ -268,12 +297,12 @@ Through this project, we gained knowledge in:
 
 ---
 
-👥 Project Team
+## 👥 Project Team
 
 This project was developed as an academic project to explore web development, backend technologies, database management, and cloud computing.
 
 ---
 
-📄 License
+## 📄 License
 
 This project is developed for educational and academic purposes.
