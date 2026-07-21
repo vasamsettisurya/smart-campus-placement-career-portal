@@ -132,6 +132,7 @@ The application is deployed on Amazon Web Services (AWS) using cloud infrastruct
 
 ## 📁 Project Structure
 
+````
 smart-campus-placement-career-portal/
 │
 ├── 📁 templates/
@@ -164,6 +165,7 @@ smart-campus-placement-career-portal/
 ├── requirements.txt
 └── README.md
 
+````
 ---
 
 ## ☁️ AWS Deployment
@@ -244,13 +246,9 @@ Sensitive information such as passwords, access keys, and private credentials sh
 
 ## 📸 Project Screenshots
 
----
-
-## 📸 Project Screenshots
-
 ### 🏠 Home Page
 
-![Home Page](images/home.png)
+![Home Page](images/home-page.png)
 
 ### 🔐 Login Page
 
